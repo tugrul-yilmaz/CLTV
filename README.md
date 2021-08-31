@@ -12,4 +12,9 @@ Mevcut müşteriyi elde tutmanın yeni müşteriler kazanmaktan daha kolay bir i
 
 ## CLTV Nasıl Hesaplanır ?
 
+* CLTV = (Customer Value / Churn Rate) * Profit Margin
+* Customer Value = Average Order Value * Purchase Frequency
+* Churn Rate = 1 — Repeat Rate
+* CLTV = Expected Number of Transactions * Expected Average Profit
+* CLTV = BG/NBD Model * Gamma Gamma Submodel
 
