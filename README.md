@@ -12,6 +12,8 @@ Mevcut müşteriyi elde tutmanın yeni müşteriler kazanmaktan daha kolay bir i
 
 ## CLTV Nasıl Hesaplanır ?
 
+CLTV hesaplamanın pek çok farklı formülü ve yöntemi vardır.Bu çalışmada BG/NBD ve Gamma Gamma modeli ile CLTV hesaplanacaktır.
+
 * CLTV = (Customer Value / Churn Rate) * Profit Margin
 * Customer Value = Average Order Value * Purchase Frequency
 * Churn Rate = 1 — Repeat Rate
